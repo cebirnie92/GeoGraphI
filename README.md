@@ -17,7 +17,7 @@ A dump of the dataset is in the `*.dump` file and can be loaded into a local ins
 
 ```neo4j-admin load --from=<archive-path> --database=<database> [--force]```
 
-Or by using the neo4J browser - see https://tbgraph.wordpress.com/2020/11/11/dump-and-load-a-database-in-neo4j-desktop/ for guidance.
+Or by using the neo4J Desktop - see https://tbgraph.wordpress.com/2020/11/11/dump-and-load-a-database-in-neo4j-desktop/ for guidance.
 
 Schema
 ------
